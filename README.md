@@ -12,7 +12,7 @@
 - MongoDB, MySQL, PostgreSQL
 - Docker & Docker Compose 
 - REST APIs, JWT Auth, Swagger UI
-- JUnit & Mockito for testing(TDd)
+- JUnit & Mockito for testing(TDD)
 - Spring Cache (Simple cache abstraction with annotations)
 - Agile practices, Git & GitHub
 
