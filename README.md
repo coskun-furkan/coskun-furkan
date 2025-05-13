@@ -19,10 +19,10 @@
 ---
 
 #  Let's connect!
- 📍 Based in Hatay, Turkey
- 💼 coskunfrkn@outlook.com
- 💻 <a href="https://github.com/coskun-furkan" target="_blank">GitHub Profile</a>
- 🔗 <a href="https://linkedin.com/in/coskun-furkan" target="_blank">LinkedIn</a>
+. 📍 Based in Hatay, Turkey
+. 💼 coskunfrkn@outlook.com
+. 💻 <a href="https://github.com/coskun-furkan" target="_blank">GitHub Profile</a>
+. 🔗 <a href="https://linkedin.com/in/coskun-furkan" target="_blank">LinkedIn</a>
 
 ---
 
