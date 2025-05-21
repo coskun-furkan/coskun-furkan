@@ -14,7 +14,7 @@
 - REST APIs, JWT Auth, Swagger UI
 - JUnit & Mockito for testing(TDD)
 - Spring Cache (Simple cache abstraction with annotations)
-- Agile practices, Git & GitHub
+- Agile and Scrum methodologies, Git & GitHub
 
 ---
 
